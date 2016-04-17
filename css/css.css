@@ -50,11 +50,12 @@
 }
 #Intro{
     display: none;
-    margin-bottom: 20px;
+    /*margin-bottom: 20px;*/
     color: #707070;
     font-size: 18px;
     background-color: #f0f0f0;
-    height: 100%;
+    min-height: 100%;
+    padding-bottom: 50px;
 }
 img.door{
     width: 100%;
@@ -124,7 +125,6 @@ img.door{
     margin-bottom: 100px;
 }
 .contact > h4{
-    margin-top: 40px;
     font-weight: 100;
     font-size: 30px;
     line-height: 48px;
