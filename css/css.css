@@ -184,3 +184,8 @@ img.door{
 #contact-me{
     height: 100%;
 }
+.footer{
+    font-size: 16px;
+    text-align: center;
+    padding: 40px 0px;
+}
